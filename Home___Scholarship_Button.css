@@ -1,0 +1,554 @@
+.mediaViewInfo {
+	--web-view-name: Home - Scholarship Button;
+	--web-view-id: Home_-_Scholarship_Button;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home_-_Scholarship_Button;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_-_Scholarship_Button_Class {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home - Scholarship Button;
+	--web-view-id: Home_-_Scholarship_Button;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Path_611_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_611 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 76px;
+	top: 426.615px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_93_Class {
+	fill: rgba(180,236,203,1);
+}
+.Rectangle_93 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 309px;
+	left: 26px;
+	top: 256.5px;
+}
+.Know_Your_Scholarship_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,-74.5,385.5) rotate(270deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Beige_Illustration_Invitation__Class {
+	position: absolute;
+	width: 740px;
+	height: 391px;
+	left: 542px;
+	top: 218px;
+	overflow: visible;
+}
+.Rectangle_11_Class {
+	fill: rgba(0,65,26,0.58);
+}
+.Rectangle_11 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 902px;
+	height: 912px;
+	left: -201px;
+	top: 499.667px;
+}
+.Rectangle_5_Class {
+	fill: rgba(0,65,26,0.58);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	height: 328px;
+	left: -100.316px;
+	top: -42.667px;
+}
+.Path_596_Class {
+	fill: rgba(242,242,242,1);
+}
+.Path_596 {
+	overflow: visible;
+	position: absolute;
+	width: 1.174px;
+	height: 2.94px;
+	left: 464.255px;
+	top: 275.459px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_4_Class {
+	fill: rgba(242,242,242,1);
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 468.789px;
+	top: 274.982px;
+}
+.Path_599_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_599 {
+	overflow: visible;
+	position: absolute;
+	width: 63.09px;
+	height: 4.58px;
+	left: 464.255px;
+	top: 301.429px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_7_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 38px;
+	left: 29px;
+	top: 40px;
+}
+.format-justify_Class {
+	position: absolute;
+	width: 26px;
+	height: 21px;
+	left: 38px;
+	top: 49px;
+	overflow: visible;
+}
+.Path_575_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_575 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_576_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_576 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 6.333px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_577_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_577 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 12.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_578_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_578 {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 19px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.FAQ_Class {
+	left: 1126px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 38px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Ellipse_1_Class {
+	fill: rgba(3,75,32,1);
+}
+.Ellipse_1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 1120px;
+	height: 753px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-181.2107,-585.665) rotate(26deg);
+	transform-origin: center;
+}
+.Ellipse_5_Class {
+	fill: rgba(3,75,32,1);
+}
+.Ellipse_5 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 1120px;
+	height: 753px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-181.2107,-585.665) rotate(26deg);
+	transform-origin: center;
+}
+.Rectangle_18_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_18 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 912px;
+	top: 47px;
+}
+.Rectangle_19_Class {
+	fill: rgba(9,229,98,1);
+}
+.Rectangle_19 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 912px;
+	top: 92px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: National.html;
+	cursor: pointer;
+}
+.Rectangle_20_Class {
+	fill: rgba(9,229,98,1);
+}
+.Rectangle_20 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 912px;
+	top: 136px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: International.html;
+	cursor: pointer;
+}
+.National__Class {
+	left: 953px;
+	top: 98px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: National.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Scholarship_Class {
+	left: 927px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.International_ba_Class {
+	left: 934px;
+	top: 142px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: International.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.chevron-down_Class {
+	position: absolute;
+	width: 14.142px;
+	height: 8.485px;
+	left: 1033px;
+	top: 61.5px;
+	overflow: visible;
+}
+.chevron-down_bc_Class {
+	fill: rgba(255,255,255,1);
+}
+.chevron-down_bc {
+	overflow: visible;
+	position: absolute;
+	width: 14.142px;
+	height: 8.485px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_55_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_55 {
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	height: 33px;
+	left: 906px;
+	top: 15px;
+}
+.Rectangle_67_Class {
+	fill: rgba(180,236,203,1);
+}
+.Rectangle_67 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 183px;
+	left: 1303px;
+	top: 331px;
+}
+.Enquiry_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,1281.5,393.5) rotate(270deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_69_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 158px;
+	height: 45px;
+	left: 911px;
+	top: 0px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Rectangle_78_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_78 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 1076px;
+	top: 47px;
+}
+.Pink_Student_Day_Instagram_Sto_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1249px;
+	top: 22px;
+	overflow: visible;
+}
+.Meet_the_Team_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1087px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_79_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_79 {
+	position: absolute;
+	overflow: visible;
+	width: 912px;
+	height: 768px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Rectangle_91_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_91 {
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 588px;
+	left: 912px;
+	top: 180px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+.Rectangle_92_Class {
+	opacity: 0;
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_92 {
+	position: absolute;
+	overflow: visible;
+	width: 293px;
+	height: 768px;
+	left: 1073px;
+	top: 0px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}

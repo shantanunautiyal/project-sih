@@ -1,0 +1,720 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.index_Class {
+	position: absolute;
+	width: 1366px;
+	height: 1300px;
+	background-color: rgba(255,255,255,1);
+	overflow: auto;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+.Beige_Illustration_Invitation__d_Class {
+	position: absolute;
+	width: 740px;
+	height: 391px;
+	left: 444.5px;
+	top: 186.909px;
+	overflow: visible;
+}
+.Ellipse_1_d_Class {
+	fill: rgba(3,75,32,1);
+}
+.Ellipse_1_d {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 1120px;
+	height: 753px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-224,-577.9749) rotate(26deg);
+	transform-origin: center;
+}
+.Path_596_ea_Class {
+	fill: rgba(242,242,242,1);
+}
+.Path_596_ea {
+	overflow: visible;
+	position: absolute;
+	width: 1.174px;
+	height: 2.94px;
+	left: 464.255px;
+	top: 467.006px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_5_eb_Class {
+	fill: rgba(0,65,26,0.58);
+}
+.Rectangle_5_eb {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	height: 326px;
+	left: -102.316px;
+	top: -11px;
+}
+.Ellipse_4_ec_Class {
+	fill: rgba(242,242,242,1);
+}
+.Ellipse_4_ec {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 468.789px;
+	top: 466.462px;
+}
+.Path_599_ed_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_599_ed {
+	overflow: visible;
+	position: absolute;
+	width: 63.09px;
+	height: 4.58px;
+	left: 464.255px;
+	top: 511.484px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_7_ee_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_ee {
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	height: 38px;
+	left: 29px;
+	top: 39px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login.html;
+	cursor: pointer;
+}
+.Component_8__1_Class {
+	position: absolute;
+	width: 155px;
+	height: 39px;
+	left: 906px;
+	top: 38px;
+	overflow: visible;
+}
+.Rectangle_18_eg_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_18_eg {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: Home___Scholarship_Button.html;
+	cursor: pointer;
+}
+.chevron-down_eh_Class {
+	position: absolute;
+	width: 14.142px;
+	height: 10.485px;
+	left: 1219px;
+	top: 55.5px;
+	overflow: visible;
+}
+.chevron-down_ei_Class {
+	fill: rgba(255,255,255,1);
+}
+.chevron-down_ei {
+	overflow: visible;
+	position: absolute;
+	width: 14.142px;
+	height: 10.485px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.chevron-down_ej_Class {
+	position: absolute;
+	width: 14.142px;
+	height: 10.485px;
+	left: 1029px;
+	top: 55.5px;
+	overflow: visible;
+}
+.chevron-down_ek_Class {
+	fill: rgba(255,255,255,1);
+}
+.chevron-down_ek {
+	overflow: visible;
+	position: absolute;
+	width: 14.142px;
+	height: 10.485px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Scholarship_el_Class {
+	left: 919px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Scholarship_Button.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Path_601_Class {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_601 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	left: 70.5px;
+	top: 423.948px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_15_Class {
+	fill: rgba(180,236,203,1);
+}
+.Rectangle_15 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	height: 183px;
+	left: 1287px;
+	top: 299.909px;
+}
+.Enquiry_eo_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,1265.5,359.8412) rotate(270deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Enquiry_.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_63_Class {
+	fill: rgba(180,236,203,1);
+}
+.Rectangle_63 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 309px;
+	left: 20.5px;
+	top: 253.833px;
+}
+.Know_Your_Scholarship_eq_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	transform: matrix(1,0,0,1,-80,382.8333) rotate(270deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 252px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Scholarship_Check.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+.Pink_Student_Day_Instagram_Sto_er_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1260px;
+	top: 12px;
+	overflow: visible;
+}
+.Rectangle_73_Class {
+	fill: rgba(35,149,103,1);
+}
+.Rectangle_73 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1384px;
+	height: 233px;
+	left: 0px;
+	top: 1085px;
+}
+.n_Copyright_2022_all_rights_re_Class {
+	left: 464px;
+	top: 1257px;
+	position: absolute;
+	overflow: hidden;
+	width: 522px;
+	height: 43px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Pink_Student_Day_Instagram_Sto_eu_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 52px;
+	top: 1143px;
+	overflow: visible;
+}
+.Rectangle_74_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_74 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 51px;
+	left: 938px;
+	top: 1193px;
+}
+.Subscribe_For_Newsletter_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1003px;
+	top: 1148px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,238,7,1);
+}
+.Email_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 971px;
+	top: 1204px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Go_Class {
+	left: 1288px;
+	top: 1204px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_75_Class {
+	fill: rgba(52,209,134,1);
+}
+.Rectangle_75 {
+	position: absolute;
+	overflow: visible;
+	width: 194px;
+	height: 40px;
+	left: 96px;
+	top: 37px;
+}
+.format-justify_e_Class {
+	position: absolute;
+	width: 26px;
+	height: 21px;
+	left: 38px;
+	top: 48px;
+	overflow: visible;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login.html;
+	cursor: pointer;
+}
+.Path_575_e_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_575_e {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_576_e_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_576_e {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 6.333px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_577_e_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_577_e {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 12.667px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_578_e_Class {
+	fill: rgba(0,0,0,1);
+}
+.Path_578_e {
+	overflow: visible;
+	position: absolute;
+	width: 26px;
+	height: 2px;
+	left: 0px;
+	top: 19px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_76_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(1,65,27,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_76 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 446px;
+	height: 483px;
+	left: 45px;
+	top: 592px;
+}
+.Announcement_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 175px;
+	top: 605px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(35,149,103,1);
+}
+.n__EASY_STEPS_TO_APPLY_FOR_SCH_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 514px;
+	top: 611px;
+	position: absolute;
+	overflow: visible;
+	width: 823px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,0,61,1);
+}
+.Image_1_Class {
+	mix-blend-mode: difference;
+	position: absolute;
+	width: 223px;
+	height: 211px;
+	left: 499px;
+	top: 785px;
+	overflow: visible;
+}
+.Image_2_Class {
+	mix-blend-mode: difference;
+	position: absolute;
+	width: 253px;
+	height: 252px;
+	left: 788px;
+	top: 774px;
+	overflow: visible;
+}
+.Image_3_Class {
+	mix-blend-mode: difference;
+	position: absolute;
+	width: 220px;
+	height: 231px;
+	left: 1075px;
+	top: 775px;
+	overflow: visible;
+}
+.SIGN_UP_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 560px;
+	top: 697px;
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,8,255,1);
+}
+.Complete_Profile_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 809px;
+	top: 697px;
+	position: absolute;
+	overflow: visible;
+	width: 233px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,8,255,1);
+	text-transform: uppercase;
+}
+.Search_And_Apply_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1101px;
+	top: 697px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	white-space: nowrap;
+	line-height: 28px;
+	margin-top: -1.5px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(0,8,255,1);
+	text-transform: uppercase;
+}
+.Rectangle_97_Class {
+	fill: rgba(253,245,0,1);
+}
+.Rectangle_97 {
+	position: absolute;
+	overflow: visible;
+	width: 43px;
+	height: 38px;
+	left: 662px;
+	top: 39px;
+}
+.search_Class {
+	position: absolute;
+	width: 28.496px;
+	height: 28px;
+	left: 668.752px;
+	top: 44px;
+	overflow: visible;
+}
+.search_fg_Class {
+	fill: rgba(0,0,0,1);
+}
+.search_fg {
+	overflow: visible;
+	position: absolute;
+	width: 28.496px;
+	height: 28px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_123_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(0,0,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_123 {
+	position: absolute;
+	overflow: visible;
+	width: 308px;
+	height: 40px;
+	left: 319px;
+	top: 37px;
+}
+.Polygon_6_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_6 {
+	overflow: visible;
+	position: absolute;
+	width: 34px;
+	height: 30px;
+	left: 65px;
+	top: 675px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Polygon_7_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_7 {
+	overflow: visible;
+	position: absolute;
+	width: 34px;
+	height: 30px;
+	transform: matrix(1,0,0,1,65,685) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_106_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_106 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 1083px;
+	top: 38px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Meet_the_Team_.html;
+	cursor: pointer;
+}
+.Meet_the_Team_fl_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1094px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Meet_the_Team_.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}

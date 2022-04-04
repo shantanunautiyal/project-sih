@@ -1,0 +1,424 @@
+.mediaViewInfo {
+	--web-view-name: International;
+	--web-view-id: International;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: International;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.International_Class {
+	position: absolute;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: International;
+	--web-view-id: International;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+.Rectangle_5_g_Class {
+	opacity: 0.34;
+	fill: rgba(0,65,26,0.58);
+}
+.Rectangle_5_g {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 549px;
+	height: 328px;
+	left: -86.5px;
+	top: -143px;
+}
+.Ellipse_1_g_Class {
+	opacity: 0.52;
+	fill: rgba(3,75,32,1);
+}
+.Ellipse_1_g {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 1120px;
+	height: 753px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,-188.2107,-654.3745) rotate(26deg);
+	transform-origin: center;
+}
+.Rectangle_103_g_Class {
+	fill: url(#Rectangle_103_g);
+}
+.Rectangle_103_g {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 603px;
+	height: 105px;
+	left: 357px;
+	top: 145px;
+}
+.Path_596_g_Class {
+	fill: rgba(242,242,242,1);
+}
+.Path_596_g {
+	overflow: visible;
+	position: absolute;
+	width: 1.174px;
+	height: 2.94px;
+	left: 464.255px;
+	top: 297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Ellipse_4_ha_Class {
+	fill: rgba(242,242,242,1);
+}
+.Ellipse_4_ha {
+	position: absolute;
+	overflow: visible;
+	width: 4px;
+	height: 4px;
+	left: 542px;
+	top: 356.982px;
+}
+.Path_599_hb_Class {
+	fill: rgba(255,255,255,1);
+}
+.Path_599_hb {
+	overflow: visible;
+	position: absolute;
+	width: 63.09px;
+	height: 4.58px;
+	left: 464.255px;
+	top: 297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_98_Class {
+	fill: rgba(3,75,32,1);
+}
+.Rectangle_98 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 105px;
+	left: 1024px;
+	top: 297px;
+}
+.Rectangle_104_Class {
+	fill: rgba(3,75,32,1);
+}
+.Rectangle_104 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 105px;
+	left: 465px;
+	top: 297px;
+}
+.Rectangle_101_Class {
+	fill: rgba(3,75,32,1);
+}
+.Rectangle_101 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	height: 105px;
+	left: 752px;
+	top: 297px;
+}
+.Rectangle_100_Class {
+	fill: rgba(3,75,32,1);
+}
+.Rectangle_100 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 269px;
+	height: 105px;
+	left: 140px;
+	top: 297px;
+}
+.Scholarships_By_Country__Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 378px;
+	top: 155px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.USA_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1083px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Europe_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 498px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.UK_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 810px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Australia_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 165px;
+	top: 307px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_105_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_105 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 906px;
+	top: 38px;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Scholarship_Button.html;
+	cursor: pointer;
+}
+.Rectangle_106_hm_Class {
+	fill: rgba(2,73,31,1);
+}
+.Rectangle_106_hm {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	height: 57px;
+	left: 1083px;
+	top: 38px;
+}
+.chevron-down_hn_Class {
+	position: absolute;
+	width: 14.142px;
+	height: 8.485px;
+	left: 1035px;
+	top: 57.5px;
+	overflow: visible;
+}
+.chevron-down_ho_Class {
+	fill: rgba(255,255,255,1);
+}
+.chevron-down_ho {
+	overflow: visible;
+	position: absolute;
+	width: 14.142px;
+	height: 8.485px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Scholarship_hp_Class {
+	left: 921px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home___Scholarship_Button.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Pink_Student_Day_Instagram_Sto_hq_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 1260px;
+	top: 12px;
+	overflow: visible;
+}
+.Meet_the_Team_hr_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1094px;
+	top: 44px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: Meet_the_Team_.html;
+	cursor: pointer;
+	line-height: 28px;
+	margin-top: -4px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Rectangle_107_Class {
+	fill: rgba(35,149,103,1);
+}
+.Rectangle_107 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1384px;
+	height: 233px;
+	left: 0px;
+	top: 553px;
+}
+.n_Copyright_2022_all_rights_re_ht_Class {
+	left: 464px;
+	top: 725px;
+	position: absolute;
+	overflow: hidden;
+	width: 522px;
+	height: 43px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+.Pink_Student_Day_Instagram_Sto_hu_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	left: 52px;
+	top: 611px;
+	overflow: visible;
+}
+.Rectangle_108_Class {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_108 {
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	height: 51px;
+	left: 938px;
+	top: 661px;
+}
+.Subscribe_For_Newsletter_hw_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1003px;
+	top: 616px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,238,7,1);
+}
+.Email_hx_Class {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 961px;
+	top: 672px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Go_hy_Class {
+	left: 1288px;
+	top: 672px;
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Himalaya;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
